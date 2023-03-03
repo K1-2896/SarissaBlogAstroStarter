@@ -28,7 +28,7 @@ Sarissa Blog theme created to serve markdown-based personel blog needs.
 
 ```cjs
   //Web site title. It is visible in sidebar and browser
-  siteTitle: "Sarissa Blog",
+  siteTitle: "Klog",
   //Web site desciption. It is visible in sidebar. Also added head meta data.
   siteDescription: "Responsive Blog Template",
   //Web site favicon
@@ -104,8 +104,9 @@ Sarissa Blog theme created to serve markdown-based personel blog needs.
 ```
 
 ## Built with Sarrisa Blog
+
 - [İsmail Özçelik](https://ismailozcelik.com/) - My personal blog site
-Open an issue to listed here.
+  Open an issue to listed here.
 
 ## Support
 
@@ -115,4 +116,4 @@ If this template helped you, buy me a coffee.
 
 ## License
 
-This template is MIT licensed. 
+This template is MIT licensed.
