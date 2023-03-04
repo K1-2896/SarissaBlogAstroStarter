@@ -1,14 +1,22 @@
 ---
 layout: ../../layouts/PostLayout.astro
 title: このブログについて
-image: https://api.lorem.space/image/drink?w=400&h=225
-date: 2023-03-04 09:31
+image: ../../images/img_firstpost.jpg
+date: 2023-03-04 12:31
 categories:
   - image
+  - blog
 ---
 
 ## このブログは KEG の BLOG、略して KLOG です。
 
 自分の学習のため、そしてポートフォリオとして制作しました。
+
 Astro の公式サイトで（https://astro.build/）公開されている
 İsmail Özçelik 氏によるテンプレートをもとにしてデザインされています。
+
+このブログでは、自分がプログラミングする上で気づいたことや、困った際にどのように対応したのかを書いていきます。
+
+ただ、それだけでは面白くないので、趣味の映画や音楽のことも書いていきます。
+
+更新頻度が多い方がサイトのよくないところが見つかってより良いサイトにできるような気がしますからね

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/PostLayout.astro
 title: First example post with external an image
-image: https://api.lorem.space/image/drink?w=400&h=225
+image: ../../images/img_firstpost.jpg
 date: 2022-01-21 05:44
 categories:
   - lorem
