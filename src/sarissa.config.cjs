@@ -4,7 +4,7 @@ export default {
   favicon: '/favicon.ico',
   siteImagePath: '/images/MyBlogTitle.png',
   footer: '© 2023 Klog',
-  dateFormat: 'dd.MM.yyyy HH:mm',
+  dateFormat: 'yyyy.MM.dd HH:mm',
   socialMedia: {
     twitter: 'KEG_0717',
     github: 'K1-2896',

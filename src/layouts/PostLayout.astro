@@ -1,11 +1,15 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { formatDate,getCategoryColour } from "../sarissaUtils";
-
 const { content } = Astro.props;
 ---
 
 <BaseLayout pageTitle={content.title}>
+  <style is:global>
+    .card-body h2{
+      font-size: 24px;
+    }
+  </style>
   <div class="card bg-base-200 shadow-xl">
     <div class="card-body">
       <h1 class="text-3xl font-extrabold">{content.title}</h1>
