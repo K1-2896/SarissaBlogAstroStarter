@@ -2,7 +2,7 @@
 layout: ../../layouts/PostLayout.astro
 title: このブログについて
 image: ../../images/img_firstpost.jpg
-date: 2023-03-04 12:31
+date: 2023-05-04 12:31
 categories:
   - image
   - blog
